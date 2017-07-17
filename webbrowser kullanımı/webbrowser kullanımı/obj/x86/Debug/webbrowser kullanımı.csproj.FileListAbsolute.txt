@@ -1,0 +1,9 @@
+C:\Users\Samet\AppData\Local\Temporary Projects\webbrowser kullanımı\bin\Debug\webbrowser kullanımı.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\webbrowser kullanımı\bin\Debug\webbrowser kullanımı.pdb
+C:\Users\Samet\AppData\Local\Temporary Projects\webbrowser kullanımı\obj\x86\Debug\webbrowser_kullanımı.Form1.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\webbrowser kullanımı\obj\x86\Debug\webbrowser_kullanımı.Properties.Resources.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\webbrowser kullanımı\obj\x86\Debug\webbrowser kullanımı.csproj.GenerateResource.Cache
+C:\Users\Samet\AppData\Local\Temporary Projects\webbrowser kullanımı\obj\x86\Debug\webbrowser kullanımı.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\webbrowser kullanımı\obj\x86\Debug\webbrowser kullanımı.pdb
+C:\Users\Samet\documents\visual studio 2010\Projects\webbrowser kullanımı\webbrowser kullanımı\obj\x86\Debug\webbrowser kullanımı.exe
+C:\Users\Samet\documents\visual studio 2010\Projects\webbrowser kullanımı\webbrowser kullanımı\obj\x86\Debug\webbrowser kullanımı.pdb
